@@ -10,7 +10,7 @@ This project was developed during the Mobile Application Programming (SECJ3623) 
 
 - **Zuhayer Adnan Siddique**
 - **Kevin Fachrezy**
-- **Ghathfa Muhammad**
+- **Ghathfan Muhammad**
 - **Adam Hadeed**
 
 ## Features
