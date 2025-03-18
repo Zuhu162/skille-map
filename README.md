@@ -2,7 +2,7 @@
 
 ## About Skille
 
-Skille is a mobile application designed to connect University of Technology Malaysia (UTM) students who offer services with those who need them. The platform facilitates a skill exchange marketplace exclusively for UTM students, allowing them to find, connect with, and hire skilled peers for various services.
+Skille is a mobile application, developed using Flutter and the MVVM architecture and designed to connect University of Technology Malaysia (UTM) students who offer services with those who need them. The platform facilitates a skill exchange marketplace exclusively for UTM students, allowing them to find, connect with, and hire skilled peers for various services.
 
 This project was developed during the Mobile Application Programming (SECJ3623) course at UTM Malaysia for the 2024/2025-1 session, conducted by Dr. Jumail Bin Taliba.
 
