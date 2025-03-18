@@ -20,7 +20,13 @@ This project was developed during the Mobile Application Programming (SECJ3623) 
 - Student-specific login/registration
 - Profile management
 
-![Login Screen](assets/login.PNG)
+<div align="center">
+  <div style="display: inline-block; border: 12px solid #333333; border-radius: 36px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+    <img src="assets/login.PNG" width="300" alt="Login Screen" />
+    <div style="background: #333333; height: 20px; margin-top: -4px;"></div>
+  </div>
+  <p><em>Login Screen</em></p>
+</div>
 
 ### 2. Interactive Home Screen
 
@@ -28,7 +34,13 @@ This project was developed during the Mobile Application Programming (SECJ3623) 
 - Featured service providers
 - Quick access to all platform features
 
-![Home Screen](assets/home.PNG)
+<div align="center">
+  <div style="display: inline-block; border: 12px solid #333333; border-radius: 36px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+    <img src="assets/home.PNG" width="300" alt="Home Screen" />
+    <div style="background: #333333; height: 20px; margin-top: -4px;"></div>
+  </div>
+  <p><em>Home Screen</em></p>
+</div>
 
 ### 3. Comprehensive Search
 
@@ -36,7 +48,13 @@ This project was developed during the Mobile Application Programming (SECJ3623) 
 - Search by username
 - Filter results based on specific criteria
 
-![Search Screen](assets/search.PNG)
+<div align="center">
+  <div style="display: inline-block; border: 12px solid #333333; border-radius: 36px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+    <img src="assets/search.PNG" width="300" alt="Search Screen" />
+    <div style="background: #333333; height: 20px; margin-top: -4px;"></div>
+  </div>
+  <p><em>Search Screen</em></p>
+</div>
 
 ### 4. Instagram-Style Profile Pages
 
@@ -46,7 +64,13 @@ This project was developed during the Mobile Application Programming (SECJ3623) 
 - Bio and contact information
 - Friend connection management
 
-![Profile Screen](assets/profile.PNG)
+<div align="center">
+  <div style="display: inline-block; border: 12px solid #333333; border-radius: 36px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+    <img src="assets/profile.PNG" width="300" alt="Profile Screen" />
+    <div style="background: #333333; height: 20px; margin-top: -4px;"></div>
+  </div>
+  <p><em>Profile Screen</em></p>
+</div>
 
 ### 5. Friend Management
 
@@ -54,7 +78,13 @@ This project was developed during the Mobile Application Programming (SECJ3623) 
 - Accept/decline requests through notifications
 - View friend list
 
-![Friends List](assets/friends.PNG)
+<div align="center">
+  <div style="display: inline-block; border: 12px solid #333333; border-radius: 36px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+    <img src="assets/friends.PNG" width="300" alt="Friends List" />
+    <div style="background: #333333; height: 20px; margin-top: -4px;"></div>
+  </div>
+  <p><em>Friends List Screen</em></p>
+</div>
 
 ## System Architecture
 
@@ -303,7 +333,7 @@ lib/
 
 This project is forked from the original repository and currently uses mock API implementations for demonstration purposes. All data shown in the application is simulated and does not represent real services or users.
 
-## Future Enhancements
+## Potential Future Enhancements
 
 - Real backend integration
 - Payment processing
@@ -311,7 +341,3 @@ This project is forked from the original repository and currently uses mock API 
 - Service booking system
 - Reviews and ratings
 - Location-based service discovery
-
-## License
-
-[Insert license information here]
